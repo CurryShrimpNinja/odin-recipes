@@ -1,0 +1,12 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cyan;
+}
+
+.title {
+    text-align: center;
+}
+
+div ~ p {
+    text-indent: 25px;
+}
